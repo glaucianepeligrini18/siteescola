@@ -1,0 +1,80 @@
+body{
+    font-family: 'Alkatra', cursive;
+}
+
+.cabecalho{
+    background-color: #0c0e0d;
+    color:white;
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    padding: 24px 0;
+}
+
+.cabecalho-lista-item{
+ display: inline-block;
+ margin: 0 16px;
+ padding: 24px 0;
+ font-size: 24px;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.escola-imagem{
+    width: 20%;
+}
+
+.escola{
+    background-image: linear-gradient(#0c0e0d,#a78888);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;Formula-bro
+    padding: 24px 0;
+}
+
+.estudante-imagem{
+    width: 350px;
+
+    .estudante-icone {
+        text-align>
+    };
+}
+
+
+.estudante-titulo{
+
+    text-align: center;
+    
+    padding: 50px 0;
+    
+ }
+    
+    .estudante-todos{
+    
+    display: grid;
+    
+    grid-template-columns: 25% 25% 25% 25%;
+    
+    }
+
+.rodape{
+        background-color: black;
+        text-align: center;
+
+}
+
+.rodape-imagem{
+
+height: 50px;
+
+padding: 12px 0;
+
+}
